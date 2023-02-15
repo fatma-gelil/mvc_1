@@ -1,0 +1,9 @@
+{
+    "name": "fatma/mvc",
+    "autoload": {
+        "classmap": [
+            "./"
+        ]
+    },
+    "require": {}
+}
